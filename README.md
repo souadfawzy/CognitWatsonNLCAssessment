@@ -11,9 +11,10 @@ Maven dependency
   <version>4.2.1</version>
 </dependency>
 
+Getting started
+
 follow the below steps to run this application
 
-Getting started
 •	Go to http://cognitwatsonnlcassessment.eu-gb.mybluemix.net/
 •	Enter Question in search box
 •	Click ask button and result will appear in the same screen
